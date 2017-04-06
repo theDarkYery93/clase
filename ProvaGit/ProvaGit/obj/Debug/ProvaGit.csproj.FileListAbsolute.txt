@@ -1,0 +1,14 @@
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\bin\Debug\ProvaGit.exe.config
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\bin\Debug\ProvaGit.exe
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\bin\Debug\ProvaGit.pdb
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit.csprojResolveAssemblyReference.cache
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\MainWindow.g.cs
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\App.g.cs
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit_MarkupCompile.cache
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit_MarkupCompile.lref
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\MainWindow.baml
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit.g.resources
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit.Properties.Resources.resources
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit.csproj.GenerateResource.Cache
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit.exe
+C:\Users\Yeray\Desktop\repositoriClase\ProvaGit\ProvaGit\obj\Debug\ProvaGit.pdb
